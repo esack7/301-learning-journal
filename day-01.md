@@ -1,5 +1,5 @@
-#Day 1
-##Code Fellows 301 Learning Journal
+# Day 1
+## Code Fellows 301 Learning Journal
 
 The first day of 301 was a bit strange for me.  I think mostly because the scheduled was different than I was expecting, given that this class has afternoon lecture.  I am over it and mentally prepared for that going forward, but I wasn't expecting that and it came as a bit of a shock the first day.
 
